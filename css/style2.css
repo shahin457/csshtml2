@@ -1,0 +1,26 @@
+body {
+  background-color: darkblue;
+
+  text-align: center;
+}
+h1 {
+  font-size: 30px;
+  color: white;
+  text-align: start;
+  text-decoration: ;
+}
+#cb {
+  width: auto;
+}
+input {
+}
+label {
+  font-size: 30px;
+  color: #fff;
+}
+a {
+  font-size: 200%;
+}
+.button {
+  font-size: 20px;
+}
